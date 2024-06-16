@@ -110,8 +110,8 @@ GCC: Version 10 or later (requires for C++20 support)
   ```cpp
   std::list<double> l1 = {3.21, 6.54};
   std::list<double> l2;
-  xml::xmlSerialize(l1, "pair.xml", true);
-  xml::xmlDeserialize(l2, "pair.xml", true);  // l2 == {3.21, 6.54}
+  xml::xmlSerialize(l1, "list.xml", true);
+  xml::xmlDeserialize(l2, "list.xml", true);  // l2 == {3.21, 6.54}
   ```
   xml file:
   ```xml
