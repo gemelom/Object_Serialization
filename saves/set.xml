@@ -1,0 +1,8 @@
+<serialize encoding="UTF-8">
+    <std_set>
+        <size_t size="3"/>
+        <l val="111"/>
+        <l val="1111"/>
+        <l val="66666"/>
+    </std_set>
+</serialize>

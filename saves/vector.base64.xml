@@ -1,0 +1,9 @@
+<serialize encoding="base64">
+    <std_vector>
+        <size_t size="4"/>
+        <std_string>d2hhdA==</std_string>
+        <std_string>Y2Fu</std_string>
+        <std_string>aQ==</std_string>
+        <std_string>c2F5</std_string>
+    </std_vector>
+</serialize>

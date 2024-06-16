@@ -1,0 +1,11 @@
+<serialize encoding="UTF-8">
+    <std_unique_ptr>
+        <std_vector>
+            <size_t size="4"/>
+            <i val="2"/>
+            <i val="0"/>
+            <i val="2"/>
+            <i val="4"/>
+        </std_vector>
+    </std_unique_ptr>
+</serialize>

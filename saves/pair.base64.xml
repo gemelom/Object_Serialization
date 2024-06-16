@@ -1,0 +1,10 @@
+<serialize encoding="base64">
+    <std_pair>
+        <first>
+            <i>MjAw</i>
+        </first>
+        <second>
+            <i>MzAw</i>
+        </second>
+    </std_pair>
+</serialize>

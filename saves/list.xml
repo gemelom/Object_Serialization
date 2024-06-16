@@ -1,0 +1,7 @@
+<serialize encoding="UTF-8">
+    <std_list>
+        <size_t size="2"/>
+        <d val="3.210000"/>
+        <d val="6.540000"/>
+    </std_list>
+</serialize>

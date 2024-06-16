@@ -1,0 +1,13 @@
+<serialize encoding="UTF-8">
+    <std_map>
+        <size_t size="2"/>
+        <entry>
+            <i val="114"/>
+            <std_string>hello</std_string>
+        </entry>
+        <entry>
+            <i val="514"/>
+            <std_string>world</std_string>
+        </entry>
+    </std_map>
+</serialize>

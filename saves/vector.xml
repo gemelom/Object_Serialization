@@ -1,0 +1,9 @@
+<serialize encoding="UTF-8">
+    <std_vector>
+        <size_t size="4"/>
+        <std_string>what</std_string>
+        <std_string>can</std_string>
+        <std_string>i</std_string>
+        <std_string>say</std_string>
+    </std_vector>
+</serialize>

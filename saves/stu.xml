@@ -1,0 +1,13 @@
+<serialize encoding="UTF-8">
+    <user_defined>
+        <d val="3.140000"/>
+        <std_string>Hello</std_string>
+        <std_vector>
+            <size_t size="4"/>
+            <i val="1"/>
+            <i val="2"/>
+            <i val="3"/>
+            <i val="4"/>
+        </std_vector>
+    </user_defined>
+</serialize>

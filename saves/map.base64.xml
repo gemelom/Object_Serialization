@@ -1,0 +1,13 @@
+<serialize encoding="base64">
+    <std_map>
+        <size_t size="2"/>
+        <entry>
+            <i>MTE0</i>
+            <std_string>aGVsbG8=</std_string>
+        </entry>
+        <entry>
+            <i>NTE0</i>
+            <std_string>d29ybGQ=</std_string>
+        </entry>
+    </std_map>
+</serialize>

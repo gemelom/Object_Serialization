@@ -1,0 +1,10 @@
+<serialize encoding="UTF-8">
+    <std_pair>
+        <first>
+            <i val="200"/>
+        </first>
+        <second>
+            <i val="300"/>
+        </second>
+    </std_pair>
+</serialize>
